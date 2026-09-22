@@ -1,0 +1,6 @@
+{
+  "name": "tinyandvan Wohnmobilbau",
+  "description": "Exklusive Campervan- & Tiny-Wohnmobil-Manufaktur. Maßgeschneiderte Van-Ausbauten, 4x4 Overlander & Tiny Houses auf Rädern in Meisterqualität.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
